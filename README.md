@@ -9,6 +9,15 @@
  <link rel=" stylesheet" type="text/css"href="style.css">
  </head>
   <body>
+  <header>
+   <div class="dws-menu">
+      <ul class="dws-ul">
+         <li class="dws-li"><a href="https://maksimlink185.github.io/ChporaProgramsta/index.html"><i class="fa fa-home" aria-hidden="true"></i>Сайт по ПРОГРАМУВАННЮ</a></li>
+         <li class="dws-li"><a href="https://www.instagram.com/ma.rian724/"><i class="fa fa-shopping-cart" aria-hidden="true"></i>ІНСТАГРАМ</a></li>
+         <li class="dws-li"><a href="https://maksimlink185.github.io/ChporaProgramsta/index.html"><i class="fa fa-shopping-cart" aria-hidden="true"></i>РЕКЛАМА</a></li>
+      </ul>
+   </div>
+</header>
 <div class="header" style="background-color: #340047;
     border-bottom: 3px solid #010047;
     padding-top: 12px;
